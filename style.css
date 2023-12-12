@@ -1,0 +1,22 @@
+body{
+    background-image: url(Background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    font-size: 4vw;
+}
+.center{
+    text-align: center;
+}
+.center ul {
+    list-style: inside;
+}
+a[href="recipes/Gulab_Jamun.html"] {
+    font-size: 3vw;
+    ;}
+a[href="recipes/Moms_Potato_Latkes.html"] {
+    font-size: 3vw;
+}
+a[href="recipes/Brownies.html.html"] {
+    font-size: 3vw;
+}
